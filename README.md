@@ -14,4 +14,5 @@ This is a simple e-commerce clone project created with HTML and CSS. It replicat
 2. Open the `index.html` file in your web browser to explore the e-commerce website.
 
 3. Browse through the product listings, navigate using the menu, and add products to the cart.
-[Live Preview]herf="http://127.0.0.1:5500/index.html"
+👉
+[Live Preview](http://127.0.0.1:5500/index.html)
