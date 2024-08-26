@@ -1,7 +1,7 @@
 # E-Commerce-Clone-Project
 This is a simple e-commerce clone project created with HTML and CSS. It replicates the basic structure and layout of an online shopping website.
  👉
-[Live Preview](http://localhost:3000/)
+[Live Preview](https://explorer-sonu.github.io/E-Commerce-Clone-Project/)
 
 ## Features
 
